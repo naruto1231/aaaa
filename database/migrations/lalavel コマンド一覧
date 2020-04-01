@@ -1,0 +1,4 @@
+0316
+01.lalabel起動　php artisan serve
+02.マイグレーション起動　php artisan migrate
+03.マイグレーション新規作成　php artisan make:migration create_workers_table --create=workers
